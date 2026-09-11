@@ -1464,14 +1464,14 @@
       }
     },
     "combatroll:distance": {
-      "enabled": false,
+      "enabled": true,
       "min": {
         "default": 1,
-        "value": 1
+        "value": -48
       },
       "max": {
         "default": 24,
-        "value": 24
+        "value": 48
       }
     },
     "additional_attributes:innate_spell/irons_spellbooks/sunbeam": {
@@ -2182,11 +2182,11 @@
       "enabled": true,
       "min": {
         "default": 0,
-        "value": -20
+        "value": -10
       },
       "max": {
         "default": 10,
-        "value": 20
+        "value": 10
       }
     },
     "attributeslib:life_steal": {

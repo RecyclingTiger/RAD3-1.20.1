@@ -2,6 +2,7 @@
   "values": [
     "minecraft:player_attack",
     "minecraft:arrow",
-    "minecraft:thrown"
+    "minecraft:thrown",
+    {"id":"cataclysm:laser","required":false"}
   ]
 }
